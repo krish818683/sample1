@@ -1,0 +1,21 @@
+From 9484eb2b0096b025e851c694abca7cef25bb165b Mon Sep 17 00:00:00 2001
+From: vamsi <pvamsi818683@gmail.com>
+Date: Wed, 27 Mar 2019 18:56:39 +0530
+Subject: [PATCH 08/10] cherry branch added by cherry
+
+---
+ hi.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/hi.txt b/hi.txt
+index c8c2532..8eb6ab0 100644
+--- a/hi.txt
++++ b/hi.txt
+@@ -2,3 +2,4 @@ new changes in hi file
+ new changes in file
+ some new changes
+ some changes by me in r4
++hello from cherry
+-- 
+2.21.0.windows.1
+
